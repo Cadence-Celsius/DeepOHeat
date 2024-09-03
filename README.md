@@ -16,6 +16,10 @@ Thermal-aware floorplanning is particularly important in designing 3D integrated
 </p>
 
 ## Getting Started
+Python 3.8.16 was used to develop this repo, to install dependencies
+```
+pip install -r requirements.txt
+```
 To reproduce examples in our paper or directly use pretrained checkpoints, please refer to [2d_power_map](./DeepOHeat/2d_power_map) and [multi_htc_bc](./DeepOHeat/multi_htc_bc).
 
 - In particular, [prototype.py](./DeepOHeat/2d_power_map/prototype.py) directly runs inference on the 10 test cases we showcased in the paper, at Section V.A.
