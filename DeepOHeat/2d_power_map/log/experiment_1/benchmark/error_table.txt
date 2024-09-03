@@ -1,0 +1,89 @@
+map_20_20
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00026
+Peak absolute percentage (PAPE) = 0.00105
+The top surface:
+Mean absolute percentage (MAPE) = 0.00049
+Peak absolute percentage (PAPE) = 0.00105
+
+
+map_5_5
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00018
+Peak absolute percentage (PAPE) = 0.00244
+The top surface:
+Mean absolute percentage (MAPE) = 0.00032
+Peak absolute percentage (PAPE) = 0.00244
+
+
+map_10_10
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00034
+Peak absolute percentage (PAPE) = 0.00200
+The top surface:
+Mean absolute percentage (MAPE) = 0.00071
+Peak absolute percentage (PAPE) = 0.00200
+
+
+map_c1
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00048
+Peak absolute percentage (PAPE) = 0.00385
+The top surface:
+Mean absolute percentage (MAPE) = 0.00105
+Peak absolute percentage (PAPE) = 0.00385
+
+
+map_c2
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00138
+Peak absolute percentage (PAPE) = 0.00516
+The top surface:
+Mean absolute percentage (MAPE) = 0.00211
+Peak absolute percentage (PAPE) = 0.00516
+
+
+map_c3
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00042
+Peak absolute percentage (PAPE) = 0.00487
+The top surface:
+Mean absolute percentage (MAPE) = 0.00092
+Peak absolute percentage (PAPE) = 0.00487
+
+
+map_c4
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00130
+Peak absolute percentage (PAPE) = 0.00715
+The top surface:
+Mean absolute percentage (MAPE) = 0.00248
+Peak absolute percentage (PAPE) = 0.00715
+
+
+map_c5
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00074
+Peak absolute percentage (PAPE) = 0.00659
+The top surface:
+Mean absolute percentage (MAPE) = 0.00179
+Peak absolute percentage (PAPE) = 0.00659
+
+
+map_c6
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00164
+Peak absolute percentage (PAPE) = 0.01001
+The top surface:
+Mean absolute percentage (MAPE) = 0.00319
+Peak absolute percentage (PAPE) = 0.01001
+
+
+map_c7
+The whole domain:
+Mean absolute percentage (MAPE) = 0.00081
+Peak absolute percentage (PAPE) = 0.00398
+The top surface:
+Mean absolute percentage (MAPE) = 0.00142
+Peak absolute percentage (PAPE) = 0.00398
+
